@@ -6,4 +6,6 @@ output:
     toc: false
 ---
 
-Welcome to my research website.
+Welcome to Amy's research website.
+
+This show's interim results of my research to share with collaborators.
